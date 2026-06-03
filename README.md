@@ -1,4 +1,13 @@
-- 👋 Hi, I’m @dennyssdm
+.gitignore
+AGENTS.md
+CODEX Prompt guidance.txt
+docs/
+index.html
+package-lock.json
+package.json
+postcss.config.js
+src/
+tailwind.config.js- 👋 Hi, I’m @dennyssdm
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
